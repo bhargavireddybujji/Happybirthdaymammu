@@ -1,0 +1,41 @@
+
+
+.model-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.img{
+    margin-left: 500px;
+    border-radius: 500px;
+    height: 500px;
+    width: 500px;
+}
+.bg-container{
+    background-color: #FEF2F2;
+    height: 100vh;
+    width: 100vw;
+    background-size:cover ;
+}
+.h{
+    background-color: #E4c2c1;
+    text-align: center;
+    color: rgb(19, 51, 116);
+    font-family: italic;
+    font-size: 50px;
+    font-weight: 600;
+}
+.suprise-btn{
+    background-color:#ff8085;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+    width: 210px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 50px;
+    margin-right:;
+    margin-top: 50px;
+    margin-left: 600px;
+    cursor:pointer;
+}
